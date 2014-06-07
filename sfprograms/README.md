@@ -7,3 +7,6 @@ sfcat sfplay for linux from http://ada.evergreen.edu/~arunc/050426/linux/bin/sfp
 
 sfcat sfplay for OS X from  http://ada.evergreen.edu/~arunc/050426/osx/bin/sfprograms.tar.gz
 
+Details on these programs:
+http://ada.evergreen.edu/~arunc/050426/programs.htm
+
